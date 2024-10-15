@@ -1,0 +1,8 @@
+com\example\taskmanagement\observer\TaskNotifier.class
+com\example\taskmanagement\service\TaskService.class
+com\example\taskmanagement\TaskManagementApplication.class
+com\example\taskmanagement\factory\NormalTask.class
+com\example\taskmanagement\observer\TaskObserver.class
+com\example\taskmanagement\factory\TaskFactory.class
+com\example\taskmanagement\factory\Task.class
+com\example\taskmanagement\factory\UrgentTask.class
